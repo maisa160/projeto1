@@ -47,5 +47,7 @@ Controle de versão: A cada modificação, podíamos salvar o estado do código 
 Colaboração e organização: Usando branches, conseguimos organizar o desenvolvimento de cada funcionalidade de forma independente. Isso evitou conflitos de código e facilitou a implementação de novas funcionalidades sem impactar a funcionalidade principal.
 Histórico de mudanças: O Git forneceu um histórico completo de todas as alterações feitas no código, o que foi útil para revisar decisões anteriores e entender o progresso do projeto.
 Facilidade no compartilhamento: Ao usar o GitHub, conseguimos facilmente compartilhar o repositório, colaborar (mesmo que individualmente) e garantir que todas as mudanças fossem salvas e documentadas.
+
+
 Conclusão:
 O uso do Git foi fundamental para garantir que o desenvolvimento fosse realizado de maneira organizada e eficiente. Ele não só ajudou a gerenciar o código-fonte, mas também facilitou o acompanhamento do progresso e a documentação do processo. O projeto foi concluído dentro do cronograma, e o Git contribuiu para a realização de cada etapa de forma clara e sem erros.
